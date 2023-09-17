@@ -1,14 +1,8 @@
 # ToDo App with React and Typescript
----
-<p align="center">
-    <a href="https://jonatandb.github.io/todo-app-react-typescript/">
-        <img src="./Screenshot.png" alt="ToDo App with React and Typescript by Jonatandb"/>
-    </a>
-</p>
 
 ---
 ## Live Preview:
-  -  https://jonatandb.github.io/todo-app-react-typescript/
+  -  https://yusupozdoyev.github.io/test-mindbox-todo/
 
 ----
 
