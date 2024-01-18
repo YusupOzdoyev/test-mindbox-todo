@@ -1,4 +1,6 @@
-# ToDo App with React and Typescript
+# Тут я скопипастил чужую репу с ToDo и задеплоил на свой GitHub Pages.
+
+#№ ToDo App with React and Typescript
 
 ---
 ## Live Preview:
